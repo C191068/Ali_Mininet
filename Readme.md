@@ -44,6 +44,12 @@
 
 ![m24](https://github.com/C191068/Ali_Mininet/assets/89090776/49ef08bf-5bcf-4c0a-8455-8b17bdaa9cbf)
 
+![m1](https://github.com/C191068/Ali_Mininet/assets/89090776/378d31af-0779-4db4-add2-45b4ebc4f2e4)
+
+![m2](https://github.com/C191068/Ali_Mininet/assets/89090776/81de8903-6e20-44a4-aac5-e7f2c7297080)
+
+
+
 
 
 
